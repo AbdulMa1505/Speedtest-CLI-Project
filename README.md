@@ -16,10 +16,15 @@ This project uses the speedtest-cli library to check your internet speed directl
 
 ## how to use
 1.Clone the repository or download the script.
+
 2.Install the speedtest-cli package using pip:
+
 3.pip install speedtest-cli
+
 4.Open your terminal or command prompt.
+
 5.Run the Python script to get your internet speed results
+
 6.python speedtest.py(run this in your terminal)
 
 
